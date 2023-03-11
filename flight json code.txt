@@ -108,4 +108,4 @@ JSON Dummy :
 }
 ]
 
-"Hi we are working on a full stack project"
+"Hi we are working on a full stack Angular project"
